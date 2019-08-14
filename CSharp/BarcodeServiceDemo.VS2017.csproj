@@ -120,8 +120,8 @@
     <Reference Include="System.Xml">
       <Name>System.XML</Name>
     </Reference>
-    <Reference Include="Vintasoft.Barcode, Version=11.0.2.3, Culture=neutral, PublicKeyToken=153caf29a10d2e31, processorArchitecture=MSIL">
-      <HintPath>packages\Vintasoft.Barcode.11.0.2.3\lib\net40\Vintasoft.Barcode.dll</HintPath>
+    <Reference Include="Vintasoft.Barcode">
+      <HintPath>packages\Vintasoft.Barcode.12.0.7.1\lib\net40\Vintasoft.Barcode.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -140,23 +140,6 @@
     <EmbeddedResource Include="Service1.resx">
       <DependentUpon>Service1.cs</DependentUpon>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

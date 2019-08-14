@@ -1,7 +1,7 @@
 mkdir d:\barcodes
 pause
 
-C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe .\Bin\Release\BarcodeServiceDemo.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe .\Bin\BarcodeServiceDemo.exe
 pause
 
 net start BarcodeServiceDemo
