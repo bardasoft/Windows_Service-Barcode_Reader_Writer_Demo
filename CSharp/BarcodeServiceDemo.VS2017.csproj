@@ -121,7 +121,7 @@
       <Name>System.XML</Name>
     </Reference>
     <Reference Include="Vintasoft.Barcode">
-      <HintPath>packages\Vintasoft.Barcode.12.0.10.1\lib\net40\Vintasoft.Barcode.dll</HintPath>
+      <HintPath>packages\Vintasoft.Barcode.12.0.11.1\lib\net40\Vintasoft.Barcode.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
