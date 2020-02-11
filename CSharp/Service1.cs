@@ -23,6 +23,8 @@ namespace BarcodeServiceDemo
 
         public Service1()
         {
+            VintasoftBarcode.VintasoftBarcodeLicense.Register();
+
             // This call is required by the Windows.Forms Component Designer.
             InitializeComponent();
 
