@@ -111,7 +111,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Vintasoft.Barcode" Version="12.1.0.1" />
+    <PackageReference Include="Vintasoft.Barcode" Version="12.1.1.1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs">
